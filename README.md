@@ -9,3 +9,8 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
     * [x] [Lesson1 (CREATE, INSERT, UPDATE, DELETE, SELECT)](/Lessons/Lesson1.sql)
     
     * [x] [Lesson2 (Data types)](/Lessons/Lesson2.md)
+
+* [ ] [Projects](/Projects/)
+
+    * [x] [SQL queries on products pulled from Amazon.com with Python Selenium](/Projects/AmazonMSSQLProject/)
+
