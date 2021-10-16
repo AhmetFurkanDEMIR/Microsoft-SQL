@@ -4,8 +4,8 @@
 
 In this project, data were analyzed by running various sql codes on 5084 (592 MB) electronic products pulled from Amazon.com.
 
-The Python code script that I wrote to Microsoft SQL by pulling the data with Python Selenium - [Python Code](/getData.py)
+The Python code script that I wrote to Microsoft SQL by pulling the data with Python Selenium - [Python Code](/Projects/AmazonMSSQLProject/getData.py)
 
-The SQL code script where I create the database and the table - [SQL Code](MSSQL_CreateTable.sql)
+The SQL code script where I create the database and the table - [SQL Code](/Projects/AmazonMSSQLProject/MSSQL_CreateTable.sql)
 
-The SQL code script where I analyze the data [SQL Code](/AmazonProductQuery.sql)
+The SQL code script where I analyze the data [SQL Code](/Projects/AmazonMSSQLProject/AmazonProductQuery.sql)
