@@ -7,3 +7,5 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
 * [ ] [Lessons](/Lessons/) 
     
     * [x] [Lesson1 (CREATE, INSERT, UPDATE, DELETE, SELECT)](/Lessons/Lesson1.sql)
+    
+    * [x] [Lesson2 (Data types)](/Lessons/Lesson2.md)
