@@ -2,7 +2,7 @@
 
 Necmettin Erbakan University 3nd year Database Systems lecture notes and assignments. This course is covered with Microsoft SQL, I will write the SQL codes according to this database.
 
-* [x] [Microsoft SQL server, Azure Data Studio and DBeaver installation](/MSQLInstallation.md)
+* [x] [Microsoft SQL server, Azure Data Studio and DBeaver installation](/MSSQLInstallation.md)
 
 * [ ] [Lessons](/Lessons/) 
     
