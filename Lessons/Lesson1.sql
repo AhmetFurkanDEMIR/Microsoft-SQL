@@ -1,6 +1,6 @@
 -- CREATE, INSERT, UPDATE, DELETE, SELECT
 
--- tablo olusturma
+-- veritabani olusturma
 CREATE DATABASE DB_OKUL;
 
 -- veritabanini secme
