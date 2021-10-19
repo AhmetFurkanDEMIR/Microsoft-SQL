@@ -72,5 +72,5 @@ DELETE FROM TB_AmazonProducts;
 -- Veritabani kontrolu
 SELECT * FROM TB_AmazonProducts;
 
--- Veritabanin da bulunan DB_AmazonProducts tablosu tamamen silinir.
+-- Veritabanin da bulunan DB_AmazonProducts veritabani tamamen silinir.
 DROP DATABASE DB_AmazonProducts;
