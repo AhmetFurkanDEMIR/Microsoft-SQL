@@ -3,5 +3,5 @@
 -- uid='SA'
 -- pwd='demiraiAI1881'
 
-CREATE TABLE CSVtoDB;
+CREATE DATABASE CSVtoDB;
 USE CSVtoDB;
