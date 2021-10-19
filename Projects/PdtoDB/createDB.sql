@@ -3,5 +3,9 @@
 -- uid='SA'
 -- pwd='demiraiAI1881'
 
+GO
+
 CREATE DATABASE CSVtoDB;
 USE CSVtoDB;
+
+GO
