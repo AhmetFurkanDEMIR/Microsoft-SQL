@@ -10,7 +10,7 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
     
     * [x] [Lesson2 (Data types)](/Lessons/Lesson2.md)
     
-    * [x] [Lesson3 Advanced SELECT queries](/Lessons/Lesson3)
+    * [x] [Lesson3 (Advanced SELECT queries)](/Lessons/Lesson3)
 
 * [ ] [Projects](/Projects/)
 
