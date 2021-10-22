@@ -4,6 +4,8 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
 
 * [x] [Microsoft SQL server, Azure Data Studio and DBeaver installation](/MSSQLInstallation.md)
 
+* [x] [Running Microsoft SQL Server in Azure and connecting from personal computer](/MicrosoftSQLServerInAzure.md)
+
 * [ ] [Lessons](/Lessons/) 
     
     * [x] [Lesson1 (CREATE, INSERT, UPDATE, DELETE, SELECT)](/Lessons/Lesson1.sql)
