@@ -12,10 +12,12 @@ We will set up a low-scale machine on Azure and install Microsoft SQL Server on 
  ![Screenshot_2021-10-22_11-07-17](https://user-images.githubusercontent.com/54184905/138418363-4fe38312-b6f6-425b-ae30-e665a34960f6.png)
 
 * 4-) Connect to SQL server via Azure Data Studio or DBeaver as in the picture below.
+
  Server: PublicIP
  User Name: SA
  Password: SQL Server Password
  Remember Password: True
+ 
  ![Screenshot_2021-10-22_11-19-39](https://user-images.githubusercontent.com/54184905/138420247-4f9d9a4e-c9db-4d56-a6c6-3194c9ad9abb.png)
  ![Screenshot_2021-10-22_11-20-20](https://user-images.githubusercontent.com/54184905/138420452-d3a1436d-e2cf-4cbe-9986-0c88a23a8327.png)
 
