@@ -14,7 +14,7 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
     
     * [x] [Lesson3 (Advanced SELECT queries)](/Lessons/Lesson3)
 
-    * [ ] [Lesson4 (Clustering Functions, GROUP BY, HAVING and practice questions)](/Lessons/Lesson4.sql)
+    * [x] [Lesson4 (Clustering Functions, GROUP BY, HAVING and practice questions)](/Lessons/Lesson4.sql)
 
 * [ ] [Projects](/Projects/)
 
