@@ -17,6 +17,8 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
     * [x] [Lesson4 (Clustering Functions, GROUP BY, HAVING and practice questions)](/Lessons/Lesson4.sql)
     
     * [x] [Lesson5 (Relational database and normalization)](/Lessons/Lesson5/)
+    
+    * [x] [Lesson6 (Inner Join)](/Lessons/Lesson6.sql)
 
 * [ ] [Projects](/Projects/)
 
