@@ -15,10 +15,12 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
     * [x] [Lesson3 (Advanced SELECT queries)](/Lessons/Lesson3)
 
     * [x] [Lesson4 (Clustering Functions, GROUP BY, HAVING and practice questions)](/Lessons/Lesson4.sql)
-    
+
     * [x] [Lesson5 (Relational database and normalization)](/Lessons/Lesson5/)
-    
-    * [x] [Lesson6 (Inner Join)](/Lessons/Lesson6.sql)
+
+    * [x] [Lesson6 (FOREIGN KEY, Inner Join)](/Lessons/Lesson6.sql)
+
+    * [x] [Lesson7 (FOREIGN KEY, Inner Join, DECLARE, VIEW, PROCEDURE)](/Lessons/Lesson7/)
 
 * [ ] [Projects](/Projects/)
 
