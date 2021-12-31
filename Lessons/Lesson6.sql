@@ -71,3 +71,32 @@ Select * from TblAlisverisKayit
 SELECT TblMusteriler.isim, TblMusteriler.soyisim, TblUrunler.ad, TblUrunler.fiyat, TblAlisverisKayit.tarih from((TblAlisverisKayit
 INNER JOIN TblMusteriler ON TblAlisverisKayit.musteri_id = TblMusteriler.id)
 INNER JOIN TblUrunler ON TblAlisverisKayit.urun_id = TblUrunler.id)
+
+
+------------ Alter ------------
+
+-- ALTER COLUMN EKLEME
+ALTER TABLE TblUrunler ADD test INT;
+
+-- ALTER COLUMN EKLEME (default)
+ALTER TABLE TblUrunler ADD test INT DEFAULT 5;
+
+-- ALTER COLUMN SILME
+ALTER TABLE TblUrunler DROP COLUMN test;
+
+-- ALTER COLUMN MODIFIYE
+ALTER TABLE TblUrunler ALTER COLUMN ad NVARCHAR(50);
+
+-- ALTER DEFAULT EKLEME
+ALTER TABLE TblUrunler ADD CONSTRAINT deneme DEFAULT 0 FOR baglamak;
+
+-- ALTER CONSTRAINT EKLEME
+ALTER TABLE TblUrunler ADD CONSTRAINT CK_FiyatKontrol CHECK (fiyat>=0 and fiyat<=999);
+
+-- ALTER CONSTRAINT SILME
+ALTER TABLE TblUrunler DROP CONSTRAINT CK_FiyatKontrol;
+
+-- ALTER FOREIGN KEY REFERANCES
+ALTER TABLE TblUrunler ADD baglamak INT FOREIGN KEY REFERENCES TblMusteriler(id);
+
+----------------------------------------------------------------------------
