@@ -22,7 +22,9 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
 
     * [x] [Lesson7 (FOREIGN KEY, Inner Join, DECLARE, VIEW, PROCEDURE)](/Lessons/Lesson7/)
 
-* [ ] [Projects](/Projects/)
+    * [x] [Lesson8 (TRIGGER and TSQL)](/Lessons/Lesson8.sql)
+
+* [x] [Projects](/Projects/)
 
     * [x] [SQL queries on products pulled from Amazon.com with Python Selenium](/Projects/AmazonMSSQLProject/)
 
