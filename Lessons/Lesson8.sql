@@ -70,6 +70,27 @@ IF @sayi>1
         PRINT 'BUYUKTUR'
 
     END
+    
+    
+DECLARE @count INT;
+SET @count = 8;
+
+IF @count=99
+BEGIN
+    PRINT @count
+END
+
+ELSE IF @count=98
+BEGIN
+
+PRINT @count
+END
+
+ELSE
+BEGIN
+    PRINT @count
+
+END
 
 -- WHILE
 WHILE @sayi<=99
