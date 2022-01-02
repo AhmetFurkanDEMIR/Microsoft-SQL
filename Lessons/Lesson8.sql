@@ -104,13 +104,41 @@ END
 SELECT @@CPU_BUSY
 
 -- case
-SELECT  id, arananIsımler =  
-      CASE [name]  
-         WHEN 'Mehmet' THEN 'Mehmet ismine sahib'  
-         WHEN 'A%' THEN 'Ahmet ismine sahib'  
-         ELSE 'mehmet veya ahmet degil'  
-      END,  
-   Name  
-FROM PERSONELLER
+SELECT [ad], [zamli maas] = 
 
-select * from personeller
+    CASE [cinsiyet]
+
+        WHEN 'K' THEN maas*3
+        WHEN 'E' THEN maas*2
+        ELSE -99
+
+    END,
+
+    [id]
+
+FROM Personeller;
+
+-- case like
+SELECT [name], [a ve m] = 
+
+    CASE
+
+        WHEN [name] LIKE 'a%' THEN 'A'
+        WHEN [name] LIKE 'm%' THEN 'M'
+        ELSE 'No'
+
+    END,
+
+    [id]
+
+FROM Personeller;
+
+-- TRY CATCH
+BEGIN TRY
+DROP TABLE olmayanTablo
+END TRY
+BEGIN CATCH
+PRINT 'HATA'
+PRINT ERROR_NUMBER();
+PRINT ERROR_MESSAGE();
+END CATCH
