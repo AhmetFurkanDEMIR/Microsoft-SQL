@@ -6,7 +6,7 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
 
 * [x] [Running Microsoft SQL Server in Azure and connecting from personal computer](/MicrosoftSQLServerInAzure.md)
 
-* [ ] [Lessons](/Lessons/) 
+* [ ] [Lessons and Quiz](/Lessons/) 
     
     * [x] [Lesson1 (CREATE, INSERT, UPDATE, DELETE, SELECT)](/Lessons/Lesson1.sql)
     
@@ -18,11 +18,15 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
 
     * [x] [Lesson5 (Relational database and normalization)](/Lessons/Lesson5/)
 
-    * [x] [Lesson6 (FOREIGN KEY, Inner Join, ALTER)](/Lessons/Lesson6.sql)
+    * [x] [Lesson6 (FOREIGN KEY, Inner Join)](/Lessons/Lesson6.sql)
 
     * [x] [Lesson7 (FOREIGN KEY, Inner Join, DECLARE, VIEW, PROCEDURE)](/Lessons/Lesson7/)
 
     * [x] [Lesson8 (TRIGGER and TSQL)](/Lessons/Lesson8.sql)
+
+    * [x] [Lesson8 (String Functions)](/Lessons/Lesson9.sql)
+
+    * [ ] [Quiz](/Quiz/)
 
 * [x] [Projects](/Projects/)
 
