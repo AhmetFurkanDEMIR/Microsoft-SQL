@@ -22,9 +22,9 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
 
     * [x] [Lesson7 (FOREIGN KEY, Inner Join, DECLARE, VIEW, PROCEDURE)](/Lessons/Lesson7/)
 
-    * [x] [Lesson9 (TRIGGER and TSQL)](/Lessons/Lesson8.sql)
+    * [x] [Lesson8 (TRIGGER and TSQL)](/Lessons/Lesson8.sql)
 
-    * [x] [Lesson8 (String Functions)](/Lessons/Lesson9.sql)
+    * [x] [Lesson9 (String Functions)](/Lessons/Lesson9.sql)
 
     * [ ] [Quiz](/Quiz/)
 
