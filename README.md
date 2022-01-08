@@ -6,7 +6,7 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
 
 * [x] [Running Microsoft SQL Server in Azure and connecting from personal computer](/MicrosoftSQLServerInAzure.md)
 
-* [ ] [Lessons and Quiz](/Lessons/) 
+* [x] [Lessons and Quiz](/Lessons/) 
     
     * [x] [Lesson1 (CREATE, INSERT, UPDATE, DELETE, SELECT)](/Lessons/Lesson1.sql)
     
@@ -26,7 +26,7 @@ Necmettin Erbakan University 3nd year Database Systems lecture notes and assignm
 
     * [x] [Lesson9 (String Functions)](/Lessons/Lesson9.sql)
 
-    * [ ] [Quiz](/Quiz/)
+    * [x] [Quiz](/Quiz/)
 
 * [x] [Projects](/Projects/)
 
